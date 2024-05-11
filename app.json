@@ -1,0 +1,32 @@
+{
+  "id": "5a4c80ac-fba7-4fdc-b7d2-10642cf77a05",
+  "name": "Extend Inventory Cost Adjustment",
+  "publisher": "Saurav Dhyani",
+  "version": "1.0.0.0",
+  "brief": "This extension will help you to extend Inventory Cost Adjustment Page.",
+  "description": "Allows you to add batches with Inventory Posting Group.",
+  "privacyStatement": "https://www.sauravdhyani.com/",
+  "EULA": "https://www.sauravdhyani.com/",
+  "help": "https://www.sauravdhyani.com/",
+  "url": "https://www.sauravdhyani.com/",
+  "logo": "image/sauravdhyani.png",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "24.0.0.0",
+  "idRanges": [
+    {
+      "from": 60000,
+      "to": 60100
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "12.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
